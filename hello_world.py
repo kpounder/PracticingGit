@@ -14,4 +14,4 @@ def multiply_by_two(num):
     try:
         print(num * 2)
     except Exception:
-        print('Input must be number.')
+        print('Input must be a real number.')
